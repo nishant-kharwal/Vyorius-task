@@ -62,5 +62,7 @@ else if(celsius < MinTemp){
   Serial.print("\n");
      delay(2000);
    }
+  Serial.println(celsius)
+       Serial.print("\n");
   } 
   
